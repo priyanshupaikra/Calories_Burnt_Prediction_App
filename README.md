@@ -84,6 +84,9 @@ cd calories_burnt_prediction_app
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
+# Install all the required libraries in your system
+pip install <name of library>
+
 # Install dependencies
 pip install -r requirements.txt
 ```
