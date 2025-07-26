@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Prediction Result</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-900 text-white flex justify-center items-center min-h-screen">
+  <div class="text-center bg-gray-800 p-10 rounded-xl shadow-lg w-full max-w-md">
+    <h2 class="text-2xl font-semibold mb-2">Hello, <span class="text-blue-400">{{ name }}</span>!</h2>
+    <p class="mb-6 text-gray-300">Based on your input, here's your estimated calorie burn:</p>
+    <p class="text-4xl font-bold text-green-400">{{ prediction }} kcal</p>
+    <a href="/" class="mt-8 inline-block bg-blue-600 hover:bg-blue-700 text-white px-6 py-2 rounded">Try Again</a>
+  </div>
+</body>
+</html>
