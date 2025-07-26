@@ -58,6 +58,7 @@ Calories_Burnt_Prediction/
 ├── static/
 │   └── images/
 │       └── prototype.png
+|       └── result_sample.png
 └── README.md
 ```
 
@@ -129,7 +130,7 @@ Visit `http://127.0.0.1:5000` in your browser.
 
 ## 🙌 Credits
 
-- Dataset: [Calories Dataset](https://www.kaggle.com/code/muskanjha/calories-burnt-prediction)
+- Dataset: Calories Dataset From Kaggle
 - Developed by: [Priyanshu Paikra](https://github.com/priyanshupaikra)
 
 
