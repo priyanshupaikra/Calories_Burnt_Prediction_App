@@ -68,8 +68,6 @@ Calories_Burnt_Prediction/
 ├── calories_model
 ├── calories.csv
 ├── train_model.ipynb
-
-
 └── README.md
 ```
 
