@@ -50,15 +50,26 @@ A full-stack machine learning web application built with **Python**, **Flask**, 
 
 ```bash
 Calories_Burnt_Prediction/
-├── app.py
-├── model.pkl
-├── templates/
-│   ├── index.html
-│   └── result.html
+├── dataset/
+│   └── calories_data.csv
+├── model/
+│   └── calories_model.pkl
 ├── static/
+|   ├── style.css
 │   └── images/
 │       └── prototype.png
 |       └── result_sample.png
+├── templates/
+│   ├── index.html
+│   └── result.html
+├── app.py
+├── calories.csv
+├── exercise.csv
+├── calories_model
+├── calories.csv
+├── train_model.ipynb
+
+
 └── README.md
 ```
 
