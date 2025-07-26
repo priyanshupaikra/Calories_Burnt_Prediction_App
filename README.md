@@ -129,11 +129,7 @@ Visit `http://127.0.0.1:5000` in your browser.
 
 ## 🙌 Credits
 
-- Dataset: [Calories Dataset]([https://www.kaggle.com/datasets/fmendezj/cycling-dataset](https://www.kaggle.com/code/muskanjha/calories-burnt-prediction))
+- Dataset: [Calories Dataset](https://www.kaggle.com/code/muskanjha/calories-burnt-prediction)
 - Developed by: [Priyanshu Paikra](https://github.com/priyanshupaikra)
 
----
 
-## 📄 License
-
-This project is open-source under the MIT License.
