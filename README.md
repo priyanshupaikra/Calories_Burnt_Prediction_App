@@ -124,18 +124,10 @@ Visit `http://127.0.0.1:5000` in your browser.
 
 ---
 
-## 📈 Model Performance (optional section)
-
-- R² Score: 0.87
-- MAE: 10.5
-- Trained on 1500+ data samples
-
----
-
 ## 🙌 Credits
 
-- Dataset: [Calories Dataset](https://www.kaggle.com/datasets/fmendezj/cycling-dataset)
-- Developed by: [Your Name](https://github.com/your-username)
+- Dataset: [Calories Dataset]([https://www.kaggle.com/datasets/fmendezj/cycling-dataset](https://www.kaggle.com/code/muskanjha/calories-burnt-prediction))
+- Developed by: [Priyanshu Paikra](https://github.com/priyanshupaikra)
 
 ---
 
