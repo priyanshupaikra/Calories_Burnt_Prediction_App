@@ -1,6 +1,6 @@
 # 🔥 Calories Burnt Prediction App
 
-A full-stack machine learning web application built with **Python**, **Flask**, and **Tailwind CSS** to predict the number of calories burned during physical exercise based on user inputs like gender, age, weight, height, duration, heart rate, and body temperature.
+A full-stack machine learning web application built with **Python**, and **Streamlit** to predict the number of calories burned during physical exercise based on user inputs like gender, age, weight, height, duration, heart rate, and body temperature.
 
 ---
 
@@ -141,5 +141,6 @@ Visit `http://127.0.0.1:5000` in your browser.
 
 - Dataset: Calories Dataset From Kaggle
 - Developed by: [Priyanshu Paikra](https://github.com/priyanshupaikra)
+
 
 
