@@ -34,7 +34,7 @@ A full-stack machine learning web application built with **Python**, and **Strea
 - **Model Loading**: Uses `pickle` to load the pre-trained model.
 - **Request Handling**: Receives POST requests with user input and returns prediction.
 
-### 3. **Frontend (HTML + Tailwind CSS)**
+### 3. **Frontend (Streamlit)**
 - **Input Form**: Accepts all required features from the user.
 - **Output Display**: Shows predicted calories burned in a styled result box.
 - **Responsive Design**: Built with Tailwind utility classes for mobile-first experience.
@@ -141,6 +141,7 @@ Visit `http://127.0.0.1:5000` in your browser.
 
 - Dataset: Calories Dataset From Kaggle
 - Developed by: [Priyanshu Paikra](https://github.com/priyanshupaikra)
+
 
 
 
